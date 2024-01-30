@@ -1,0 +1,36 @@
+Research Assignment #1: Memos
+1. Vulnerability of Renters and Low-Income Households to Storm Damage: 
+Evidence From Hurricane Maria in Puerto Rico 
+
+Memo: 
+Empirical research that describes the patterns of the distribution of 
+housing assistance using FEMA relief funds. "OpenFEMA Individual 
+Assistance Dataset" 
+This dataset could be used to understand economic patterns post-disaster 
+based on socio-factors like home ownership status, which relates to health 
+outcomes.
+Using housing data could be useful if I’m looking into displacement after 
+climate disasters; who gets to stay and who has to leave.
+
+2. As Disaster Costs Rise, So Does Inequality
+
+This article merges county-level data of property damages with household 
+longitudinal survey data of income dynamics to examine long-term social 
+inequalities related to climate hazards. 
+The data is accessible through SHELDUS but was not available to access 
+without payment, therefore, I did not need to email to obtain (codebook 
+was found in their README, which I downloaded in code subfolder)
+
+ This data provides a way to assess environmental ‘hazard’ and ‘peril’ 
+serverity per county, which could be used with corresponding county-level 
+health data to assess pre and post disaster health outcomes.
+Costs money to retrieve raw data.
+
+3.  The Gendered Nature of Natural Disasters: The Impact of Catastrophic Events on the Gender Gap in Life Expectancy, 1981–2002 
+
+This article analyzes the strength of disasters by looking at its 
+mortality rates and its interaction with the ses of women and their life 
+expectancy, obtained via EM-DAT database.
+Using this database I could compare transnational health outcome datasets
+related to natural or technological disasters.
+
